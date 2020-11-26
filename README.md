@@ -1,2 +1,5 @@
 # ML-Concrete-compressive-Strength
-Using non-linear regression to predict compressive strength of concrete 
+Three Models have been deployed on the dataset:
+1. Random Forest
+2. NN
+3. Regression
